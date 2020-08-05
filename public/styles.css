@@ -1,0 +1,7 @@
+.helloInput {
+  width: 200px;
+}
+.message {
+  border-width: 1px solid black;
+  background-color: aqua;
+}

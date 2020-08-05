@@ -1,0 +1,27 @@
+{
+  "name": "sit725-prac4",
+  "version": "1.0.0",
+  "description": "Message Board with DB hosted on MongoDB Atlas. Server hosted with Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsyncZero/sit725-prac4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsyncZero/sit725-prac4/issues"
+  },
+  "homepage": "https://github.com/AsyncZero/sit725-prac4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cf-deployment-tracker-client": "*",
+    "commander": "^2.6.0",
+    "http-post": "^0.1.1",
+    "http-proxy": "^1.8.1",
+    "mongodb": "^3.6.0"
+  }
+}
